@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@example.com",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "a"
+    },
+    {
+      "name": "Shashikant Yadav",
+      "email": "shashi31396s@gmail.com",
+      "password": "abcd",
+      "id": 3
+    }
+  ],
+  "bmi": [
+    {
+      "bmi": "24.11",
+      "date": "9/21/2023",
+      "id": 1
+    },
+    {
+      "date": "9/21/2023",
+      "bmi": "20.93",
+      "id": 2
+    },
+    {
+      "date": "9/29/2023",
+      "bmi": "0.02",
+      "id": 3
+    }
+  ]
+}
